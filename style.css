@@ -594,3 +594,54 @@ button:hover{
 .page3{
   margin-top: 100px;
 }
+
+/*mobile app*/
+
+.mobile{
+	height: 400px;
+	width: 400px;
+	float: right;
+	margin-right: 100px;
+	padding-top: 50px;
+}
+
+.mobile-app{
+	background-color: black;
+	height: 550px;
+	width: 70%;
+	margin: auto;
+	margin-bottom: 200px;
+	box-shadow: 15px 15px 15px 0 red;
+}
+
+.app{
+	margin-top: 300px;
+	font-size: 35px;
+	padding-top: 125px;
+}
+
+.apps{
+	font-size: 13px;
+}
+
+.app, .apps{
+  color: white;
+    text-align: center;
+    margin-right: 300px;
+    margin-left: 70px;
+}
+
+.para{
+  color: white;
+	padding-left: 240px;
+}
+
+.mobile-a{
+	height: 50px;
+	width: 170px;
+	padding-right: 5px;
+}
+
+.a{
+	margin-left: 160px;
+}
